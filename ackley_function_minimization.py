@@ -2,7 +2,7 @@
 """
 Created on Sun Apr  5 14:50:45 2020
 
-@author: Navid
+@author: mahdi
 """
 
 # -*- coding: utf-8 -*-
@@ -10,7 +10,7 @@ Created on Sun Apr  5 14:50:45 2020
 """
 Created on Thu Apr 5 13:43:08 2020
 
-@author: mehdi
+@author: navid
 """
 import pandas as pd
 from math import pi, cos, sin ,sqrt , e
