@@ -1,2 +1,2 @@
 # combinatorial-optimization
-some of more popular meta-heuristic algorithms coded in python
+some of most popular meta-heuristic algorithms coded in python
