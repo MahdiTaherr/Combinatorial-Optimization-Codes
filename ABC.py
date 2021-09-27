@@ -2,7 +2,7 @@
 """
 Created on Sun Apr 26 16:01:31 2020
 
-@author: Navid
+@author: Mahdi
 """
 #set covering problem solved by artificial bee colony algorithM
 
