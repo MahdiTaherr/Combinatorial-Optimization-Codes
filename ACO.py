@@ -1,4 +1,4 @@
-#Ant Colony Algorithm
+#Ant Colony algorithm
 import numpy as np
 import random
 #Defining parameters & variables
